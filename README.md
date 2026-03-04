@@ -1,30 +1,4 @@
-# Nu primesc notă pentru că nu am pus titlu și descriere
-
-### Folosiți template-ul corespunzător grupei voastre!
-
-| Laborant  | Link template                                |
-|-----------|----------------------------------------------|
-| Dragoș B  | https://github.com/Ionnier/oop-template      |
-| Tiberiu M | https://github.com/MaximTiberiu/oop-template |
-| Marius MC | https://github.com/mcmarius/oop-template     |
-
-### Important!
-
-Aveți voie cu cod generat de modele de limbaj la care nu ați contribuit semnificativ doar dacă documentați riguros acest proces.
-Codul generat pus "ca să fie"/pe care nu îl înțelegeți se punctează doar pentru puncte bonus, doar în contextul
-în care oferă funcționalități ajutătoare și doar dacă are sens.
-
-Codul din proiect trebuie să poată fi ușor de înțeles și de modificat de către altcineva. Pentru detalii, veniți la ore.
-
-O cerință nu se consideră îndeplinită dacă este realizată doar prin cod generat.
-
-- **Fără cod de umplutură/fără sens!**
-- **Fără copy-paste!**
-- **Fără variabile globale!**
-- **Fără atribute publice!**
-- **Pentru T2 și T3, fără date în cod!** Datele vor fi citite din fișier, aveți exemple destule.
-- **Obligatoriu** fișiere cu date mai multe din care să citiți, obligatoriu cu biblioteci externe: fișiere (local sau server) sau baze de date
-- obligatoriu (TBD) să integrați cel puțin două biblioteci externe pe lângă cele pentru stocare
+Archer Duel (numele a ctual, posibile schimbari in viitor) este inspirat dupa Tank Stars, un joc turn based in care tu si oponentul jucati cu cate un tanc si trebuie sa va nimeriti lovind peste un deal, putand sa va mutati. Aici totusi, tu si oponentul sunteti doi arcasi ce va ascundeti dupa cate un perete si fie va nimeriti tragand peste perete, fie dati "peek" (ramaneti dezvaluiti o runda). Jocul va contine si cel putin o abilitate speciala, fie obtinuta prin a nimei untarget special, fie cumpararta
 
 ### Tema 0
 
@@ -187,4 +161,5 @@ The [template repository](https://github.com/mcmarius/oop-template) itself is li
 
 ## Resurse
 
-- adăugați trimiteri **detaliate** către resursele externe care v-au ajutat sau pe care le-ați folosit
+Biblioteca raylib, ca baza pentru raylib-cpp: https://www.raylib.com/
+Biblioteca raylib-cpp, folosita pentru grafica jocului: https://github.com/RobLoach/raylib-cpp
